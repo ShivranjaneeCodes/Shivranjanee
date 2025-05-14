@@ -1,4 +1,4 @@
-[![MasterHead](https://vertextechnology.com/wp-content/uploads/2016/07/banner-web-development.png)](https://shivranjanee-bhattacharya)
+[![MasterHead]([https://www.canva.com/design/DAGhZ9KTGe8/lWV-WmGWUyUJAhzUwqCpBA/edit?utm_content=DAGhZ9KTGe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])(https://shivranjanee-bhattacharya)
 <h1 align="center">Hi 👋, I'm Shivranjanee Bhattacharya</h1>
 <h3 align="center">I am a passionate frontend developer from India. I am learning with each experience and growing myself for more better contents. With a determination to learn much more I am working on myself to be one of the best for the IT INDUSTRY.</h3>
 <img align="right" alt="Web Development" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif"
