@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.canva.com/design/DAGhZ9KTGe8/lWV-WmGWUyUJAhzUwqCpBA/edit?utm_content=DAGhZ9KTGe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])(https://shivranjanee-bhattacharya)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F12720075-cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-vector-illustration&psig=AOvVaw2QpgXQkbLb88uIajcfSy42&ust=1747319848268000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICsh_CXo40DFQAAAAAdAAAAABAE])(https://shivranjanee-bhattacharya)
 <h1 align="center">Hi 👋, I'm Shivranjanee Bhattacharya</h1>
 <h3 align="center">I am a passionate frontend developer from India. I am learning with each experience and growing myself for more better contents. With a determination to learn much more I am working on myself to be one of the best for the IT INDUSTRY.</h3>
 <img align="right" alt="Web Development" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif"
